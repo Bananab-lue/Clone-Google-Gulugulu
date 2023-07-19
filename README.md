@@ -2,7 +2,7 @@
 
 ### ❗️ **Website created by using HTML and CSS** ❗️
 
-#### as part of the Bootcamp of Tecnolochicas Pro 😊
+#### As part of the Bootcamp of Tecnolochicas Pro 😊
 
 You can visit the website 💻 with the following link: **https://gulugulutp.netlify.app/**
 
