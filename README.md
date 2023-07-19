@@ -1,12 +1,30 @@
-# Clon Google
-Clon de Google (Gulugulu) creado con HTML y CSS (en el bootcamp Tecnolochicas Pro)
+# 👯 Clon Google 👯
+
+### ❗️ **Website created by using HTML and CSS** ❗️
+
+#### as part of the Bootcamp of Tecnolochicas Pro 😊
+
+You can visit the website 💻 with the following link: **https://gulugulutp.netlify.app/**
+
+## 📚 Intro
+
+To create this project I used HTML and CSS to build the clone of the interface of ***Google.com***
+
+## 🎯 Project objective
+
+Learn about HTML elements and CSS properties. 
 
 
-## Intro
-En este proyecto se utilizó HTML y CSS para construir la clonación de la interfaz de Google.
+### 📸 Screenshot of how the page looks 
 
-## ¿Qué construí?
-El proyecto está enfocado en la construcción de la interfaz de Google, tomando especial atención a la UI y UX.
+This is how the landing page looks 👀
 
-## Objetivo del proyecto
-Aprender a utilizar los elementos de HTML y propiedades CSS.
+![Gulugulu screen](https://github.com/Bananab-lue/Gulugulu/assets/139791048/b5e4c649-745a-44c7-a4e2-6339c69b9a70)
+
+### Hope you'll like it! 
+
+
+
+
+
+
