@@ -1,4 +1,4 @@
-# 👯 Clon Google 👯
+# 👯 Clone Google 👯
 
 ### ❗️ **Website created by using HTML and CSS** ❗️
 
